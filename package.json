@@ -8,6 +8,7 @@
   "description": "AkashaEPUB skeleton example",
   "homepage": "http://akashacms.com/plugins/epub.html",
   "dependencies": {
+    "akashacms": "*",
     "akashacms-epub": "*",
     "grunt": "*",
     "ejs": "*"
