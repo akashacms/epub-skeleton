@@ -163,7 +163,7 @@ module.exports = {
     },
     
 	// For EPUB's we need to suppress a lot of standard AkashaCMS behavior
-    builtin: {
+    /* builtin: {
         suppress: {
             layouts: true,
             // partials: true,
@@ -171,10 +171,10 @@ module.exports = {
             sitemap: true,
             extlink: true
         }
-    },
+    },*/
 	
     config: function(akasha) {
-		akasha.registerPlugins(module.exports, [
+		akasha.registerPlugins([
             { name: 'akashacms-epub', plugin: require('akashacms-epub') }
 		]);
     }
