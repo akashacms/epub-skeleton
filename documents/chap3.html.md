@@ -1,7 +1,15 @@
 ---
 layout: page.html.ejs
 title: Chapter 3 - Lip-Sum-Dolor
+akashacmsEPUB:
+    id: chapter3
+    sections:
+        - chap3a.html
+        - chap3b.html
 ---
+
+* [](chap3a.html)
+* [](chap3b.html)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget urna nibh. Quisque elit metus, ultrices eu ipsum et, cursus efficitur urna. Phasellus congue quam ac ligula malesuada interdum. Donec et placerat velit. In tempus venenatis diam, in consectetur nisl ultrices nec. Maecenas lacus eros, pellentesque et odio non, tincidunt gravida libero. Praesent porta vulputate accumsan. Nam sodales, tortor quis viverra dignissim, odio neque faucibus leo, eget elementum purus lectus vitae elit. Proin arcu nulla, fermentum ac blandit eu, laoreet ac ligula.
 

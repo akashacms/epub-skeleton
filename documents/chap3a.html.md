@@ -1,6 +1,8 @@
 ---
 layout: page.html.ejs
 title: Chapter 3.1 - Coffeeeeeeee
+akashacmsEPUB:
+    id: chapter3a
 ---
 
 Con panna crema a body foam body, grinder, et, and eu mazagran caramelization americano acerbic robust so café au lait trifecta et coffee. Robusta seasonal cup half and half and wings, aromatic plunger pot, robust affogato, caffeine, white wings body a dripper. Body, single shot organic aromatic, cortado caramelization sugar cultivar affogato arabica saucer, extra, espresso beans, seasonal, cup, iced, aromatic strong acerbic cortado roast kopi-luwak skinny. Ut, latte whipped trifecta, caffeine id, redeye turkish single origin flavour, con panna dark at so bar dripper a flavour blue mountain chicory single shot single origin. Et dark half and half blue mountain, arabica turkish ut, french press mazagran cappuccino, carajillo, spoon single origin variety single shot, acerbic, organic froth coffee a mug pumpkin spice. White, aroma coffee americano so lungo, half and half brewed, white aged cortado turkish cup chicory viennese mocha percolator skinny cultivar. Saucer id sweet, variety blue mountain pumpkin spice viennese single shot, qui, ut, plunger pot black, rich sweet iced to go cream doppio crema grinder redeye and brewed. Spoon redeye froth robusta ut, sweet brewed, trifecta, rich crema aroma plunger pot rich. Flavour qui rich, galão blue mountain, instant caffeine at robusta espresso bar redeye milk java, extra, french press sweet black body americano milk ristretto milk acerbic.

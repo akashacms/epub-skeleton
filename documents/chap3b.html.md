@@ -1,6 +1,8 @@
 ---
 layout: page.html.ejs
 title: Chapter 3.2 - Bluthsum
+akashacmsEPUB:
+    id: chapter3b
 ---
 
 And the soup of the day is bread. Buster, what are you doing with mother's rape horn? Yes, she happens to be more experienced than a normal girl, but sometimes love should be… terrifying. I hear the jury's still out on science.

@@ -1,7 +1,13 @@
 ---
 layout: page.html.ejs
 title: Chapter 1 - with more bacon
+akashacmsEPUB:
+    id: chapter1
+    sections:
+        - chap1a.html
 ---
+
+* [](chap1a.html)
 
 Bacon ipsum dolor amet pig venison sirloin meatloaf short ribs. Kevin prosciutto picanha, pork pork chop t-bone beef ribs kielbasa sausage tenderloin hamburger pastrami. Salami frankfurter short ribs meatloaf capicola swine boudin tenderloin. Flank tenderloin spare ribs tri-tip. Alcatra bacon pork ham chuck jowl.
 

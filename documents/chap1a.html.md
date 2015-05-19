@@ -1,6 +1,8 @@
 ---
 layout: page.html.ejs
 title: Chapter 1.1 - hippified
+akashacmsEPUB:
+    id: chapter1a
 ---
 
 Vice deep v qui, officia laborum wolf fashion axe. Whatever meggings locavore cred. Ut beard small batch, food truck High Life gastropub et taxidermy. Listicle bicycle rights ad deep v, McSweeney's cillum hella. Blog laboris id do, locavore voluptate ethical aute excepteur. Officia gastropub occaecat iPhone. Nesciunt post-ironic in, fugiat mollit nihil keffiyeh eiusmod labore disrupt.
