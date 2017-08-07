@@ -6,6 +6,7 @@
   },
   "name": "epub-skeleton",
   "description": "AkashaEPUB skeleton example",
+  "version": "0.6.1",
   "homepage": "https://akashacms.com/epubtools/toc.html",
   "scripts": {
     "clean": "rm -rf out",
