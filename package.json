@@ -18,11 +18,6 @@
     "rebuild": "npm run clean && npm run build && npm run bundle"
   },
   "dependencies": {
-    "akasharender": "*",
-    "akashacms-footnotes": "*",
-    "akasharender-epub": "akashacms/akasharender-epub",
-    "mahabhuta": "*",
-    "epubtools": "*",
-    "globfs": "*"
+    "epubtools": "akashacms/epubtools#epubuilder"
   }
 }
