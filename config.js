@@ -1,3 +1,5 @@
+// Demonstrates configuring an EPUB project using an AkakashaCMS configuration.
+
 'use strict';
 
 const util    = require('util');
