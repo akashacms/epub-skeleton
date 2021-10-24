@@ -6,7 +6,7 @@
   },
   "name": "epub-skeleton",
   "description": "AkashaEPUB skeleton example",
-  "version": "0.6.1",
+  "version": "0.8.0",
   "homepage": "https://akashacms.com/epubtools/toc.html",
   "config": {
     "epubcheckjar": "/Users/david/bin/epubcheck-4.0.2/epubcheck.jar"
@@ -23,8 +23,8 @@
     "env": "env"
   },
   "dependencies": {
-    "@akashacms/plugins-epub": "^0.4.x",
-    "epubtools": "akashacms/epubtools#epubuilder",
+    "@akashacms/plugins-epub": "akashacms/akasharender-epub",
+    "epubtools": "akashacms/epubtools",
     "npm-run-all": "^4.1.5"
   }
 }

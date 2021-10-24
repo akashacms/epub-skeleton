@@ -1,5 +1,6 @@
 # epub-skeleton
-Skeletal AkashaEPUB document to serve as a starting point
+
+Skeletal AkashaEPUB document to serve as a starting point for creating eBooks using AkashaEPUB and EPUBTools.
 
 To use this workspace start by installing Node.js 14.x or later.  That will give you `npm` which we use for driving the process to build and verify the EPUB.
 
